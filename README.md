@@ -13,10 +13,14 @@ A graduate student from Computer Science and Engineering at North South Universi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MunzurulAzam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MunzurulAzam&icon=1&color=3)](https://visitcount.itsvg.in)
+<br/>  
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/MunzurulAzam) 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MunzurulAzam&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
